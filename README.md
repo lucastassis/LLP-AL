@@ -24,4 +24,4 @@ For example, to run the experiments on 5 folds with budget 100, and batch size 1
 python run_experiment.py -d data/blobs.parquet -b 100 -s 10 -o results_blobs.csv
 ```
 
-The results of all the models (SUP, AL, DLLP, RAND, ENTR, and KLD) for each fold and hyperparameter $lambda$ will be saved on the file `results_blobs.csv`.
+The results of all the models (SUP, AL, DLLP, RAND, ENTR, and KLD) for each fold and hyperparameter $\lambda$ will be saved on the file `results_blobs.csv`.
