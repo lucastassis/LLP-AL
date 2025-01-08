@@ -1,6 +1,6 @@
-# On Combining Learning from Label Proportions and Active Learning in Low-Budget Regimes
+# On Combining Active Learning and Deep Learning from Label Proportions in Low-Budget Regimes
 
-Repository containing the code used in the work "On Combining Learning from Label Proportions and Active Learning in Low-Budget Regimes"
+Repository containing the code used in the work "On Combining Active Learning and Deep Learning from Label Proportions in Low-Budget Regimes"
 
 ## Requirements
 All the codes were written using Python3. You can install the requirements file by using:
